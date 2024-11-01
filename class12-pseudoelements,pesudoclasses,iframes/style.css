@@ -1,0 +1,29 @@
+ h1::first-letter{
+    color: blue;
+    
+ }
+ p::first-line{
+    color: #daa520;
+ }
+ h1::before{
+    content: "🏏";
+ }
+ h1::after{
+    content: "🏏";
+ }
+ p::selection{
+    color: pink;
+ }
+ a:link{
+    color: blueviolet;
+    text-decoration: none;
+ }
+ a:visited{
+    color:black;
+ }
+ a:hover{
+    color: yellowgreen;
+    background-color: aqua;
+ }
+
+  
